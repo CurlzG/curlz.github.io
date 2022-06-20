@@ -1,0 +1,25 @@
+body{
+    background-color: gray;
+    align-items: center;
+    height:95%;
+    width: 90%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+.ourPaws{
+    background-color: aqua;
+    width: 45vh;
+    height: 40vh;
+    margin: 20px;
+    float: right;
+}
+.otherThings{
+    background-color: white;
+    width: 45vh;
+    height: 40vh;
+    margin: 20px;
+    float: left;
+}
